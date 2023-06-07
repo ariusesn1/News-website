@@ -1,0 +1,288 @@
+{
+  "posts": [
+    {
+      "name": "Gorgeous Concrete Soap",
+      "picture": "https://loremflickr.com/640/480/abstract",
+      "price": "421.00",
+      "description": "laborum rem quibusdam",
+      "id": "1"
+    },
+    {
+      "name": "Practical Metal Chicken",
+      "picture": "https://loremflickr.com/640/480/cats",
+      "price": "782.00",
+      "description": "error ea quia",
+      "id": "2"
+    },
+    {
+      "name": "Luxurious Frozen Pizza",
+      "picture": "https://loremflickr.com/640/480/nightlife",
+      "price": "863.00",
+      "description": "tempore minus allo",
+      "id": "4"
+    },
+    {
+      "name": "Oriental Cotton Pants",
+      "picture": "https://loremflickr.com/640/480/food",
+      "price": "122.00",
+      "description": "accusantium possimus ducimus",
+      "id": "5"
+    },
+    {
+      "name": "Small Steel Chicken",
+      "picture": "https://loremflickr.com/640/480/abstract",
+      "price": "563.00",
+      "description": "eius voluptas odio",
+      "id": "6"
+    },
+    {
+      "name": "Incredible Granite Pizza",
+      "picture": "https://loremflickr.com/640/480/nature",
+      "price": "107.00",
+      "description": "repellat doloribus nostrum",
+      "id": "7"
+    },
+    {
+      "name": "Oriental Plastic Ball",
+      "picture": "https://loremflickr.com/640/480/transport",
+      "price": "324.00",
+      "description": "molestiae illum doloribus",
+      "id": "8"
+    },
+    {
+      "name": "Fantastic Steel Pants",
+      "picture": "https://loremflickr.com/640/480/business",
+      "price": "393.00",
+      "description": "aspernatur iure ea",
+      "id": "9"
+    },
+    {
+      "name": "Handmade Metal Bike",
+      "picture": "https://loremflickr.com/640/480/fashion",
+      "price": "74.00",
+      "description": "deleniti cupiditate repellendus",
+      "id": "10"
+    },
+    {
+      "name": "Elegant Fresh Bacon",
+      "picture": "https://loremflickr.com/640/480/food",
+      "price": "95.00",
+      "description": "quaerat beatae distinctio",
+      "id": "11"
+    },
+    {
+      "name": "Small Metal Mouse",
+      "picture": "https://loremflickr.com/640/480/city",
+      "price": "471.00",
+      "description": "incidunt vitae incidunt",
+      "id": "12"
+    },
+    {
+      "name": "Luxurious Fresh Hat",
+      "picture": "https://loremflickr.com/640/480/technics",
+      "price": "142.00",
+      "description": "magni magni rerum",
+      "id": "13"
+    },
+    {
+      "name": "Awesome Granite Table",
+      "picture": "https://loremflickr.com/640/480/technics",
+      "price": "290.00",
+      "description": "omnis ad assumenda",
+      "id": "14"
+    },
+    {
+      "name": "Bespoke Wooden Salad",
+      "picture": "https://loremflickr.com/640/480/sports",
+      "price": "765.00",
+      "description": "error possimus soluta",
+      "id": "15"
+    },
+    {
+      "name": "Gorgeous Granite Ball",
+      "picture": "https://loremflickr.com/640/480/technics",
+      "price": "166.00",
+      "description": "cum earum at",
+      "id": "16"
+    },
+    {
+      "name": "Sleek Plastic Mouse",
+      "picture": "https://loremflickr.com/640/480/abstract",
+      "price": "106.00",
+      "description": "debitis neque maiores",
+      "id": "17"
+    },
+    {
+      "name": "Electronic Soft Bike",
+      "picture": "https://loremflickr.com/640/480/nightlife",
+      "price": "193.00",
+      "description": "hic itaque sed",
+      "id": "18"
+    },
+    {
+      "name": "Fantastic Fresh Computer",
+      "picture": "https://loremflickr.com/640/480/technics",
+      "price": "268.00",
+      "description": "soluta sed voluptatibus",
+      "id": "19"
+    },
+    {
+      "name": "Oriental Steel Shirt",
+      "picture": "https://loremflickr.com/640/480/abstract",
+      "price": "48.00",
+      "description": "veritatis laudantium at",
+      "id": "20"
+    },
+    {
+      "name": "Oriental Wooden Gloves",
+      "picture": "https://loremflickr.com/640/480/nature",
+      "price": "646.00",
+      "description": "fuga aliquam recusandae",
+      "id": "21"
+    },
+    {
+      "name": "Luxurious Fresh Keyboard",
+      "picture": "https://loremflickr.com/640/480/fashion",
+      "price": "502.00",
+      "description": "quam numquam nisi",
+      "id": "22"
+    },
+    {
+      "name": "Sleek Fresh Hat",
+      "picture": "https://loremflickr.com/640/480/fashion",
+      "price": "953.00",
+      "description": "optio corrupti deserunt",
+      "id": "23"
+    },
+    {
+      "name": "Generic Frozen Shoes",
+      "picture": "https://loremflickr.com/640/480/fashion",
+      "price": "765.00",
+      "description": "quae cumque repellat",
+      "id": "24"
+    },
+    {
+      "name": "Elegant Plastic Soap",
+      "picture": "https://loremflickr.com/640/480/people",
+      "price": "869.00",
+      "description": "velit ratione corporis",
+      "id": "25"
+    },
+    {
+      "name": "Handmade Frozen Bike",
+      "picture": "https://loremflickr.com/640/480/cats",
+      "price": "767.00",
+      "description": "modi quasi maiores",
+      "id": "26"
+    },
+    {
+      "name": "Generic Concrete Mouse",
+      "picture": "https://loremflickr.com/640/480/sports",
+      "price": "239.00",
+      "description": "error placeat dolore",
+      "id": "27"
+    },
+    {
+      "name": "Ergonomic Cotton Pants",
+      "picture": "https://loremflickr.com/640/480/business",
+      "price": "44.00",
+      "description": "esse iusto natus",
+      "id": "28"
+    },
+    {
+      "name": "Luxurious Wooden Cheese",
+      "picture": "https://loremflickr.com/640/480/people",
+      "price": "451.00",
+      "description": "animi sapiente ab",
+      "id": "29"
+    },
+    {
+      "name": "Elegant Granite Pizza",
+      "picture": "https://loremflickr.com/640/480/animals",
+      "price": "549.00",
+      "description": "vitae quaerat consectetur",
+      "id": "30"
+    },
+    {
+      "name": "Elegant Soft Cheese",
+      "picture": "https://loremflickr.com/640/480/city",
+      "price": "156.00",
+      "description": "nihil consequuntur amet",
+      "id": "31"
+    },
+    {
+      "name": "Unbranded Rubber Computer",
+      "picture": "https://loremflickr.com/640/480/people",
+      "price": "59.00",
+      "description": "recusandae ut quisquam",
+      "id": "32"
+    },
+    {
+      "name": "Luxurious Soft Car",
+      "picture": "https://loremflickr.com/640/480/cats",
+      "price": "748.00",
+      "description": "expedita eveniet ipsam",
+      "id": "33"
+    },
+    {
+      "name": "Intelligent Granite Pants",
+      "picture": "https://loremflickr.com/640/480/sports",
+      "price": "696.00",
+      "description": "est cupiditate dolores",
+      "id": "34"
+    },
+    {
+      "name": "Electronic Steel Mouse",
+      "picture": "https://loremflickr.com/640/480/business",
+      "price": "899.00",
+      "description": "ad minus non",
+      "id": "35"
+    },
+    {
+      "name": "Rustic Rubber Sausages",
+      "picture": "https://loremflickr.com/640/480/city",
+      "price": "32.00",
+      "description": "illo sunt sint",
+      "id": "36"
+    },
+    {
+      "name": "Refined Concrete Computer",
+      "picture": "https://loremflickr.com/640/480/animals",
+      "price": "414.00",
+      "description": "omnis quam neque",
+      "id": "37"
+    },
+    {
+      "name": "Fantastic Granite Mouse",
+      "picture": "https://loremflickr.com/640/480/business",
+      "price": "497.00",
+      "description": "saepe delectus ducimus",
+      "id": "38"
+    },
+    {
+      "name": "Practical Frozen Tuna",
+      "picture": "https://loremflickr.com/640/480/sports",
+      "price": "491.00",
+      "description": "eaque incidunt earum",
+      "id": "39"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "username": "admin",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "role": "admin",
+      "id": "1"
+    },
+    {
+      "email": "ariusesn1@gmail.com",
+      "username": "users1",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "role": "user",
+      "id": "tI-dD7x"
+    }
+  ]
+}
